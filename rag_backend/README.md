@@ -36,7 +36,7 @@ rag_backend/
 ├── docker-compose.yml
 ├── Dockerfile
 ├── requirements.txt
-└── .env.example
+└── .env
 ```
 
 ## Tech Stack
